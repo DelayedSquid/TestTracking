@@ -1,0 +1,115 @@
+.rn_SourceSearchField label{height: 1px;left: -10000px;overflow: hidden;position: absolute;top: auto;width: 1px;}
+@media only screen and (min-width: 768px){.custom_search_home{margin-top: 3%;}
+}
+.custom_search_home .custom_search_answers{margin-top: 0px;}
+.form-search button{width: 33%;height: 43px;height: 2.6875rem}
+@media only screen and (min-width: 768px){.form-search .search-button{width: 25%}
+}
+@media only screen and (min-width: 1024px){.custom_search_home .form-search{margin-left: 8.41667% !important}
+}
+.custom_search_home .form-search{position: relative}
+.custom_search_home .form-search input[type="search"]{position: relative;float: left;width: 67%;font-size: 16px;font-size: 1rem}
+@media only screen and (min-width: 768px){.custom_search_home .form-search input[type="search"]{width: 75%}
+}
+.custom_search_home .form-search{margin-bottom: 24px;margin-bottom: 1.5rem}
+@media only screen and (min-width: 1024px){.custom_search_home .form-search{width: 83.16667%;margin-left: 1%;float: left;margin-bottom: 24px;margin-bottom: 1.5rem}
+.custom_search_home .form-search:first-child{margin-left: 0}
+}
+.custom_search_home .form-search input[type="search"]{float: left;height: 50px;height: 3.125rem}
+@media only screen and (min-width: 768px){.custom_search_home .form-search input[type="search"]{font-size: 20px;font-size: 1.25rem;padding: 20px 24px;padding: 1.25rem 1.5rem;height: 60px;height: 3.75rem}
+}
+@media only screen and (min-width: 1024px){.custom_search_home .form-search input[type="search"]{width: 80%;font-size: 24px;font-size: 1.5rem;padding: 20px 24px;padding: 1.25rem 1.5rem;height: 60px;height: 3.75rem}
+}
+@media only screen and (min-width: 1441px){.custom_search_home .form-search input[type="search"]{font-size: 24px;font-size: 1.5rem;padding: 20px 24px;padding: 1.25rem 1.5rem;height: 70px;height: 4.375rem}
+}
+.custom_search_gen .form-search{position: relative}
+.custom_search_gen .form-search input[type="search"]{position: relative;float: left;width: 59%;font-size: 16px;font-size: 1rem}
+@media only screen and (min-width: 768px){.custom_search_gen .form-search input[type="search"]{width: 75%}
+}
+.custom_search_gen .form-search .search-button{width: 33%;height: 43px;height: 2.6875rem}
+@media only screen and (min-width: 768px){.custom_search_gen .form-search .search-button{width: 25%}
+}
+.custom_search_gen .form-search fieldset{margin-bottom: 0}
+.rn_SourceSearchButton{display: inline;bottom: 0;}
+.rn_SourceSearchButton input{border: 0;vertical-align: top;}
+#custom_search button{display:inline-block;box-shadow:0 2px 2px rgba(5,28,42,0.15);text-align:center;text-decoration:none;text-transform:uppercase;vertical-align:middle;width:20%;cursor:pointer;font-family:Helvetica,Arial,sans-serif;font-weight:bold;outline:none;transition:all 0.3s ease;-webkit-appearance:none;-moz-border-radius:3px;-webkit-border-radius:3px;border-radius:3px;line-height:1.0125em;font-size:13px;font-size:0.8125rem;-moz-user-select:-moz-none;-ms-user-select:none;-webkit-user-select:none;user-select:none;padding: 1.7175rem;background-color: #051c2a !important;border: 1px solid #051c2a !important;color: #fff;}
+.custom_search_home button{float: none;height: 50px;height: 3.125rem}
+@media only screen and (min-width: 768px){.custom_search_home button{font-size: 18px;font-size: 1.125rem;height: 60px;height: 3.75rem}
+}
+@media only screen and (min-width: 1441px){.custom_search_home button{font-size: 18px;font-size: 1.125rem;height: 70px;height: 4.375rem}
+}
+.custom_search_home button{display: inline-block;box-shadow: 0 2px 2px rgba(5, 28, 42, 0.15);text-align: center;text-decoration: none;text-transform: uppercase;vertical-align: middle;width: auto;cursor: pointer;font-family: Helvetica, Arial, sans-serif;font-weight: bold;outline: none;transition: all 0.3s ease;-webkit-appearance: none;-moz-border-radius: 3px;-webkit-border-radius: 3px;border-radius: 3px;line-height: 1.0125em;font-size: 13px;font-size: 0.8125rem;-moz-user-select: -moz-none;-ms-user-select: none;-webkit-user-select: none;user-select: none;padding: 14px 16px 13px;padding: 0.875rem 1rem 0.8125rem}
+.custom_search_home button:hover{box-shadow: 0 4px 6px rgba(5, 28, 42, 0.2)}
+.custom_search_home button:active{box-shadow: none}
+.custom_search_home button:disabled{opacity: 0.5;cursor: not-allowed;box-shadow: none}
+@media only screen and (min-width: 768px){.custom_search_home button{padding: 14px 16px 13px;padding: 0.875rem 1rem 0.8125rem}
+}
+@media only screen and (min-width: 1441px){.custom_search_home button{font-size: 14px;font-size: 0.875rem;padding: 14px 16px 11px;padding: 0.875rem 1rem 0.6875rem}
+}
+.custom_search_home button{background-color: #051c2a;border: 1px solid #051c2a !important;color: #fff;text-decoration: none;border-bottom: 1px solid #fff}
+.custom_search_home button:visited{color: #fff;border-bottom: 1px solid #fff}
+.custom_search_home button:focus{color: #fff}
+.custom_search_home button:hover{color: #fff;border-bottom: 1px solid #fff}
+.custom_search_home button:active{background-color: none;color: #fff;border-bottom: 1px solid #fff}
+.custom_search_home button:hover{background-color: #374954}
+.custom_search_home button{text-align: center;-moz-border-radius: 0 3px 3px 0;-webkit-border-radius: 0;border-radius: 0 3px 3px 0}
+.custom_search_home button{width: 33%;height: 43px;height: 2.6875rem}
+@media only screen and (min-width: 768px){.custom_search_home button{width: 25%}
+}
+.custom_search_home button{float: none;height: 50px;height: 3.125rem}
+@media only screen and (min-width: 768px){.custom_search_home button{font-size: 18px;font-size: 1.125rem;height: 60px;height: 3.75rem}
+}
+@media only screen and (min-width: 1024px){.custom_search_home button{width: 20%;font-size: 18px;font-size: 1.125rem;height: 60px;height: 3.75rem}
+}
+@media only screen and (min-width: 1441px){.custom_search_home button{font-size: 18px;font-size: 1.125rem;height: 70px;height: 4.375rem}
+}
+.custom_search_gen button{display: inline-block;box-shadow: 0 2px 2px rgba(5, 28, 42, 0.15);text-align: center;text-decoration: none;text-transform: uppercase;vertical-align: middle;width: auto;cursor: pointer;font-family: Helvetica, Arial, sans-serif;font-weight: bold;outline: none;transition: all 0.3s ease;-webkit-appearance: none;-moz-border-radius: 3px;-webkit-border-radius: 3px;border-radius: 3px;line-height: 1.0125em;font-size: 13px;font-size: 0.8125rem;-moz-user-select: -moz-none;-ms-user-select: none;-webkit-user-select: none;user-select: none;padding: 14px 16px 13px;padding: 0.875rem 1rem 0.8125rem}
+.custom_search_gen button:hover{box-shadow: 0 4px 6px rgba(5, 28, 42, 0.2)}
+.custom_search_gen button:active{box-shadow: none}
+.custom_search_gen button:disabled{opacity: 0.5;cursor: not-allowed;box-shadow: none}
+@media only screen and (min-width: 768px){.custom_search_gen button{padding: 14px 16px 13px;padding: 0.875rem 1rem 0.8125rem}
+}
+@media only screen and (min-width: 1441px){.custom_search_gen button{font-size: 14px;font-size: 0.875rem;padding: 14px 16px 11px;padding: 0.875rem 1rem 0.6875rem}
+}
+.custom_search_gen button{background-color: #051c2a;border: 1px solid #051c2a !important;color: #fff;text-decoration: none;border-bottom: 1px solid #fff}
+.custom_search_gen button:visited{color: #fff;border-bottom: 1px solid #fff}
+.custom_search_gen button:focus{color: #fff}
+.custom_search_gen button:hover{color: #fff;border-bottom: 1px solid #fff}
+.custom_search_gen button:active{background-color: none;color: #fff;border-bottom: 1px solid #fff}
+.custom_search_gen button:hover{background-color: #374954}
+.custom_search_gen button{width: auto;text-align: left}
+.custom_search_gen button{text-align: center;-moz-border-radius: 0 3px 3px 0;-webkit-border-radius: 0;border-radius: 0 3px 3px 0}
+.custom_search_gen button{width: 41%;height: 43px;height: 2.75rem;}
+.custom_search_gen_oasis button{height: 2.5rem;background-color: #4d4d4d;font-family: SansaSoft,Calibri,sans-serif;text-decoration: none;font-weight: normal;}
+.custom_search_gen_oasis button:hover{color: #fff;background-color: #0088ca;}
+.custom_search_gen_oasis button:focus{color: #fff;background-color: #0088ca;}
+.custom_search_gen_oasis button:active{color: #fff;background-color: #005883;}
+@media only screen and (min-width: 768px){.custom_search_gen button{width: 25%}
+}
+.rn_customProductDisplay .product_list li.level0{margin-bottom: 10px;}
+.rn_customProductDisplay .product_description{border: 1px solid #1473ab;color: #1473ab;background-color: #f6fbfd;padding: 1rem 1rem 1rem 1rem;margin-bottom: 0.5rem;border-radius: 3px;}
+ul{margin-bottom: 0rem !important;}
+.rn_customProductDisplay .button{color: #fff;background-color: #1473ab;border-color: #1473ab;text-transform: none;font-weight: normal;font-family: SansaSoft, Calibri, sans-serif;font-size: .9375rem;}
+.rn_customProductDisplay .button:hover{color: #fff;background-color: #005883;border-color: #005883;}
+.rn_customProductDisplay a.button:visited{border-bottom: none !important;color: #fff;}
+.rn_customProductDisplay a.button{border-bottom: none !important;color: #fff;}
+.rn_customProductDisplay .product_list{width:50%;}
+.rn_customProductDisplay .header{display:inline;}
+.rn_customProductDisplay .descriptions{width:50%;float:right;}
+.rn_customProductDisplay .header label{display:inline;cursor:pointer;}
+.fa-minus{display:inline;cursor:pointer;}
+.parentproduct{margin-bottom: 0.5rem;}
+.productList li{margin:0px;}
+.rn_customProductDisplay .product_list li{list-style:none;}
+.rn_customProductDisplay .product_list li.level0 label{font-size:1em;font-weight:normal;}
+.rn_customProductDisplay .product_list li .subproducts ul{margin-bottom: 10px;}
+.rn_customProductDisplay .product_list li.level1{margin-left: 10px;margin-top: 10px;}
+.rn_customProductDisplay .product_list li.level1 label{font-size:0.85em;font-weight:normal;}
+.rn_customProductDisplay .product_list li.level2{margin-left: 20px;}
+.rn_customProductDisplay .product_list li.level2 label{font-size:0.75em;font-weight:normal;}
+.rn_customProductDisplay .product_list li.level3{margin-left: 30px;}
+.rn_customProductDisplay .product_list li.level4{margin-left: 40px;}
+.rn_customProductDisplay .product_list li.level5{margin-left: 100px;}
+@media all and (max-width: 768px){.rn_customProductDisplay .product_list{width:100%;float:left;margin-right: 0.5rem;}
+.rn_customProductDisplay .descriptions{width:100%;float:left;}
+}
